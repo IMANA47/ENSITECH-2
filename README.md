@@ -15,8 +15,6 @@ Dossier collaboratif pour la mise en production (front end) du projet Ensitech
 
 [Urelle-TCHAMBOU 🇨🇲](https://github.com/Urelle-TCHAMBOU)
 
-[Carles De Souza 🇨🇩](https://github.com/carlesdesouza)
-
 [Naffiou Kadiri 🇸🇳](https://github.com/Naf180)
 
 [Patricia Ngounou 🇨🇲](https://github.com/ngounou-tp)
